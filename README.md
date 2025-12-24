@@ -10,6 +10,6 @@ CTF, OSINT, pentest, yazılım testi için mükemmel.
 
 Şimdilik repo'dan indirip kullan:
 ```bash
-git clone https://github.com/KULLANICI-ADIN/faketr.git
+git clone https://github.com/onurtasken/faketr.git
 cd faketr
 pip install -e .
