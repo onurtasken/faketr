@@ -1,0 +1,1342 @@
+###IsimErkek###
+Ahmet  
+Ali  
+Alp  
+Alper  
+Arda  
+Atilla  
+Ayhan  
+Acar  
+Adnan  
+Altan  
+Altay  
+Anıl  
+Aslan  
+Atakan  
+Aydın  
+Aziz  
+Akın  
+Alim  
+Abdullah  
+Adem  
+Afşin  
+Ağahan  
+Akdemir  
+Aktan  
+Alpgiray  
+Anka  
+Arif  
+Asım  
+Atabey  
+Atila  
+Ayberk  
+Azmi  
+Burak  
+Baran  
+Batuhan  
+Bora  
+Berk  
+Berat  
+Bahri  
+Barış  
+Baki  
+Bayram  
+Bilal  
+Bülent  
+Burhan  
+Berkin  
+Batu  
+Buğra  
+Berkay  
+Berkan  
+Berkant  
+Bilgin  
+Baturalp  
+Baybars  
+Babür  
+Bahadır  
+Baha  
+Cem  
+Can  
+Cihan  
+Çağan  
+Çınar  
+Cenk  
+Çağrı  
+Caner  
+Cahit  
+Celal  
+Cengiz  
+Cihat  
+Coşkun  
+Cüneyt  
+Cemal  
+Cavid  
+Cevdet  
+Cevher  
+Civan  
+Cuma  
+Cüneyd  
+Çağatay  
+Çağlar  
+Çetin  
+Çağdaş  
+Çelik  
+Çetinay  
+Çınaralp  
+Doruk  
+Efe  
+Emre  
+Eren  
+Erhan  
+Eymen  
+Ediz  
+Emir  
+Ege  
+Egehan  
+Erkan  
+Fırat  
+Furkan  
+Ferit  
+Feyyaz  
+Gökhan  
+Gürkan  
+Gökay  
+Görkem  
+Güney  
+Hüseyin  
+Hasan  
+Halil  
+Hamza  
+Hakan  
+İbrahim  
+İsmail  
+İlker  
+Kaan  
+Kerem  
+Kemal  
+Koray  
+Kutay  
+Levent  
+Murat  
+Mehmet  
+Mustafa  
+Mete  
+Miraç  
+Oğuz  
+Onur  
+Ömer  
+Ramazan  
+Recep  
+Rıza  
+Selim  
+Serkan  
+Serhat  
+Tolga  
+Tarkan  
+Tunç  
+Tayfun  
+Umut  
+Uğur  
+Ufuk  
+Veysel  
+Volkan  
+Yusuf  
+Yunus  
+Zafer  
+
+###IsimKadin###
+Azra  
+Aslı  
+Ayşe  
+Ayten  
+Ayla  
+Ada  
+Asel  
+Ahu  
+Alev  
+Alara  
+Asude  
+Aybike  
+Ayça  
+Aydan  
+Aysel  
+Ayfer  
+Aylin  
+Asmin  
+Ayşegül  
+Aybüke  
+Ayben  
+Aynur  
+Ayşın  
+Azer  
+Akgün  
+Buse  
+Büşra  
+Bilge  
+Banu  
+Burcu  
+Begüm  
+Bahar  
+Beren  
+Bade  
+Bengü  
+Betül  
+Beyza  
+Büşranur  
+Binnur  
+Bahriye  
+Belin  
+Bengisu  
+Berfin  
+Bihter  
+Billur  
+Bircan  
+Birgül  
+Ceren  
+Ceylan  
+Ceyda  
+Cansu  
+Cemre  
+Çisem  
+Çiğdem  
+Çiler  
+Çiçek  
+Çisil  
+Deniz  
+Derya  
+Defne  
+Damla  
+Dilara  
+Dilay  
+Demet  
+Duygu  
+Elif  
+Esra  
+Ebru  
+Emine  
+Ece  
+Ela  
+Eda  
+Esma  
+Ezgi  
+Ekin  
+Erva  
+Ecrin  
+Fatma  
+Funda  
+Filiz  
+Gökçe  
+Gül  
+Gizem  
+Gamze  
+Gonca  
+Gülşah  
+Gülay  
+Gülsüm  
+Gökşen  
+Hatice  
+Havva  
+Hilal  
+Hande  
+Hacer  
+İpek  
+İlayda  
+İrem  
+İclal  
+Jale  
+Kübra  
+Kader  
+Kamile  
+Lale  
+Melike  
+Merve  
+Melis  
+Melek  
+Nihan  
+Nazlı  
+Özlem  
+Özgür  
+Özge  
+Pınar  
+Pelin  
+Sema  
+Sibel  
+Seda  
+Şeyma  
+Şule  
+Tuğba  
+Yağmur  
+Yasemin  
+Yeliz  
+Zeynep  
+Zümra  
+Zehra  
+Zara  
+
+###Soyisim###
+Aksoy  
+Acar  
+Adıgüzel  
+Ak  
+Akbaş  
+Akbaba  
+Akbulut  
+Akçay  
+Akdağ  
+Akdemir  
+Akdoğan  
+Akgül  
+Akgün  
+Akın  
+Akıncı  
+Akkaya  
+Akkoca  
+Akkurt  
+Akkuş  
+Akman  
+Akpınar  
+Aksakal  
+Aksan  
+Aksu  
+Aktürk  
+Aktaş  
+Al  
+Albayrak  
+Alkan  
+Alkış  
+Alp  
+Altan  
+Altın  
+Altınok  
+Altıntaş  
+Altıok  
+Altun  
+Altunay  
+Arı  
+Arıkan  
+Arslan  
+Aslan  
+Aslanbaş  
+Atalay  
+Ataman  
+Atan  
+Atasoy  
+Avcı  
+Ay  
+Ayan  
+Ayaz  
+Aydın  
+Aykut  
+Ayla  
+Aytürk  
+Aziz  
+Babacan  
+Badem  
+Bağcı  
+Bakır  
+Bal  
+Balcı  
+Balık  
+Baran  
+Barış  
+Baş  
+Başar  
+Başaran  
+Başer  
+Batur  
+Bay  
+Bayar  
+Bayrak  
+Bektaş  
+Belen  
+Berber  
+Beşer  
+Bıçakçı  
+Bilgin  
+Boz  
+Bozkurt  
+Boztepe  
+Bülbül  
+Can  
+Candan  
+Cansız  
+Çakır  
+Çakmak  
+Çalışkan  
+Çam  
+Çelik  
+Çetin  
+Çevik  
+Çıra  
+Çoban  
+Çöl  
+Dağ  
+Dal  
+Demir  
+Demirci  
+Demirel  
+Deniz  
+Dikmen  
+Dinç  
+Dinçer  
+Doğan  
+Doğru  
+Duman  
+Dursun  
+Duru  
+Duygu  
+Efe  
+Ekinci  
+Ekmekçi  
+Elmas  
+Erdem  
+Erden  
+Erdoğan  
+Ergin  
+Ergün  
+Erkek  
+Erkin  
+Eroğlu  
+Ertürk  
+Esen  
+Eser  
+Evren  
+Fidan  
+Gök  
+Gökçe  
+Gökmen  
+Gönül  
+Güler  
+Gümüş  
+Gündüz  
+Güneş  
+Güngör  
+Gür  
+Gürbüz  
+Gürsel  
+Hakan  
+Hancı  
+Işık  
+Işıklar  
+İnan  
+İnce  
+İpek  
+İnci  
+İpekçi  
+İzci  
+Kara  
+Karabulut  
+Karaca  
+Karadağ  
+Karagöz  
+Karakaya  
+Karakuş  
+Karan  
+Karatay  
+Kaya  
+Keskin  
+Kılıç  
+Kıran  
+Kocaman  
+Koç  
+Koçak  
+Konca  
+Korkmaz  
+Kurt  
+Kuru  
+Kutlu  
+Öz  
+Özalp  
+Özcan  
+Özdemir  
+Özen  
+Özer  
+Özgür  
+Özkaya  
+Özkan  
+Özkök  
+Öztürk  
+Polat  
+Sağlam  
+Sakar  
+Sarı  
+Savaş  
+Sel  
+Sezer  
+Sönmez  
+Şahin  
+Şen  
+Şimşek  
+Taş  
+Taşkın  
+Tekin  
+Terzi  
+Topçu  
+Tuna  
+Tuncer  
+Turhan  
+Türker  
+Uçar  
+Ulu  
+Ulusoy  
+Uyar  
+Uzun  
+Ünal  
+Ünlü  
+Vural  
+Yalçın  
+Yavuz  
+Yıldız  
+Yıldırım  
+Yılmaz  
+Yörük  
+Yüce  
+Zengin  
+Zorlu  
+
+###Burc###
+Koç  
+Boğa  
+İkizler  
+Yengeç  
+Aslan  
+Başak  
+Terazi  
+Akrep  
+Yay  
+Oğlak  
+Kova  
+Balık  
+
+###Il###
+Adana  
+Adıyaman  
+Afyonkarahisar  
+Ağrı  
+Amasya  
+Ankara  
+Antalya  
+Artvin  
+Aydın  
+Balıkesir  
+Bilecik  
+Bingöl  
+Bitlis  
+Bolu  
+Burdur  
+Bursa  
+Çanakkale  
+Çankırı  
+Çorum  
+Denizli  
+Diyarbakır  
+Edirne  
+Elazığ  
+Erzincan  
+Erzurum  
+Eskişehir  
+Gaziantep  
+Giresun  
+Gümüşhane  
+Hakkari  
+Hatay  
+Isparta  
+Mersin  
+İstanbul  
+İzmir  
+Kars  
+Kastamonu  
+Kayseri  
+Kırklareli  
+Kırşehir  
+Kocaeli  
+Konya  
+Kütahya  
+Malatya  
+Manisa  
+Kahramanmaraş  
+Mardin  
+Muğla  
+Muş  
+Nevşehir  
+Niğde  
+Ordu  
+Rize  
+Sakarya  
+Samsun  
+Siirt  
+Sinop  
+Sivas  
+Tekirdağ  
+Tokat  
+Trabzon  
+Tunceli  
+Şanlıurfa  
+Uşak  
+Van  
+Yozgat  
+Zonguldak  
+Aksaray  
+Bayburt  
+Karaman  
+Kırıkkale  
+Batman  
+Şırnak  
+Bartın  
+Ardahan  
+Iğdır  
+Yalova  
+Karabük  
+Kilis  
+Osmaniye  
+Düzce  
+
+###TelefonModel###
+Apple  
+iPhone 16  
+iPhone 16 Plus  
+iPhone 16 Pro  
+iPhone 16 Pro Max  
+iPhone 15  
+iPhone 15 Plus  
+iPhone 15 Pro  
+iPhone 15 Pro Max  
+iPhone 14  
+iPhone 14 Plus  
+iPhone 14 Pro  
+iPhone 14 Pro Max  
+iPhone 13  
+iPhone 13 mini  
+iPhone 13 Pro  
+iPhone 13 Pro Max  
+iPhone 12  
+iPhone 12 mini  
+iPhone 12 Pro  
+iPhone 12 Pro Max  
+iPhone SE (3. nesil)  
+iPhone 11  
+iPhone XR  
+iPhone XS  
+iPhone XS Max  
+Samsung  
+Galaxy S24  
+Galaxy S24 Plus  
+Galaxy S24 Ultra  
+Galaxy S23  
+Galaxy S23 Plus  
+Galaxy S23 Ultra  
+Galaxy S23 FE  
+Galaxy S22  
+Galaxy S22 Plus  
+Galaxy S22 Ultra  
+Galaxy Z Fold 6  
+Galaxy Z Flip 6  
+Galaxy Z Fold 5  
+Galaxy Z Flip 5  
+Galaxy A55  
+Galaxy A35  
+Galaxy A54  
+Galaxy A34  
+Galaxy A25  
+Galaxy M34  
+Galaxy M54  
+Xiaomi  
+Redmi Note 13 Pro  
+Redmi Note 13  
+Redmi Note 12  
+Mi 14  
+Mi 14 Ultra  
+Poco X6 Pro  
+Poco F6  
+Redmi 13C  
+Redmi A3  
+Poco M6  
+Huawei  
+Pura 70  
+Pura 70 Pro  
+Pura 70 Ultra  
+Mate 60 Pro  
+Nova 12  
+Nova 11  
+P60 Pro  
+Mate 50  
+Honor  
+Magic 6 Pro  
+Magic 5 Pro  
+Honor 200  
+Honor X9b  
+Honor 90  
+OPPO  
+Reno 11  
+Reno 10  
+Find X7 Ultra  
+Find N3 Flip  
+A78  
+Realme  
+Realme 12 Pro  
+Realme GT 6  
+Realme Narzo 70  
+Realme C65  
+Vivo  
+V30  
+V29  
+X100 Pro  
+iQOO 12  
+Y200  
+Sony  
+Xperia 1 VI  
+Xperia 5 V  
+Xperia 10 V  
+Google  
+Pixel 9  
+Pixel 9 Pro  
+Pixel 9 Pro XL  
+Pixel 8  
+Pixel 8 Pro  
+Pixel 8a  
+Pixel 7  
+Pixel 7 Pro  
+OnePlus  
+OnePlus 12  
+OnePlus 12R  
+OnePlus Nord 4  
+OnePlus Nord CE 4  
+Nord N30  
+Motorola  
+Edge 50 Ultra  
+Razr 50  
+Moto G84  
+Moto G54  
+Edge 40  
+Nokia  
+Nokia G42  
+Nokia X30  
+Nokia C32  
+Asus  
+ROG Phone 8  
+Zenfone 11 Ultra  
+Poco  
+Poco X6  
+Poco F5  
+Tecno  
+Camon 30  
+Spark 20  
+Infinix  
+Note 40  
+Zero 30  
+Nothing  
+Phone (2)  
+Phone (2a)  
+CMF Phone 1  
+
+###Meslek###
+Doktor
+Hemşire
+Öğretmen
+Avukat
+Mühendis
+Mimar
+Eczacı
+Dişhekimi
+Veteriner
+Polis
+Asker
+İtfaiyeci
+Pilot
+Hostes
+Şoför
+Otobüsşoförü
+Taksici
+Kamyonşoförü
+Makasçı
+Berber
+Kuaför
+Kasap
+Fırıncı
+Pastacı
+Aşçı
+Garson
+Barmen
+Temizlikçi
+Bahçıvan
+Çiftçi
+Balıkçı
+Marangoz
+Demirci
+Boyacı
+Elektrikçi
+Tesisatçı
+Oto tamircisi
+Bilgisayar programcısı
+Grafiker
+Muhasebeci
+Bankacı
+Sigortacı
+Emlakçı
+Gazeteci
+Fotoğrafçı
+Yönetmen
+Oyuncu
+Şarkıcı
+Müzisyen
+Ressam
+Heykeltıraş
+Yazar
+Editör
+Çevirmen
+Psikolog
+Psikiyatrist
+Fizyoterapist
+Diyetisyen
+Optisyen
+Laborant
+Teknisyen
+Sekreter
+Resepsiyonist
+Güvenlik görevlisi
+Bekçi
+Kapıcı
+Postacı
+Kurye
+Pazarlamacı
+Satış temsilcisi
+Mağaza çalışanı
+Kasiyer
+Depocu
+Fabrika işçisi
+Madenci
+İnşaat işçisi
+Kaynakçı
+Tornacı
+Frezeci
+Kalıpçı
+Tekstil işçisi
+Terzi
+Ayakkabıcı
+Çantacı
+Kuyumcu
+Saatçi
+Gözlükçü
+Elektronik tamircisi
+Telefon tamircisi
+Bilgisayar tamircisi
+Beyaz eşya tamircisi
+Klima tamircisi
+Asansör teknisyeni
+Oto elektrikçisi
+Lastikçi
+Oto yıkamacısı
+Vale
+Otopark görevlisi
+Tur rehberi
+Animatör
+DJ
+VJ
+Ses mühendisi
+Işıkçı
+Kameraman
+Montajcı
+Senarist
+Yapımcı
+Kostüm tasarımcısı
+Makyaj artisti
+Manikürcü
+Pedikürcü
+Masör
+SPA terapisti
+Yoga eğitmeni
+Fitness antrenörü
+Futbolcu
+Basketbolcu
+Voleybolcu
+Tenisçi
+Yüzücü
+Atlet
+Koç
+Hakem
+Spor yorumcusu
+Gazete dağıtıcısı
+Sütçü
+Yoğurtçu
+Peynirci
+Zeytinci
+Kuruyemişçi
+Manav
+Halıcı
+Mobilyacı
+Perdeci
+Avize satıcısı
+Yapı market çalışanı
+Nalbur
+Hırdavatçı
+Anahtarcı
+Çilingir
+Camcı
+Reklamcı
+Pazar araştırmacısı
+İnsan kaynakları uzmanı
+İdari işler uzmanı
+Lojistikçi
+Gümrük müşaviri
+Denetçi
+Müfettiş
+Hakim
+Savcı
+Noter
+İcra memuru
+Tahsilatçı
+Kredi uzmanı
+Borsa uzmanı
+Finans danışmanı
+Yatırım danışmanı
+Girişimci
+İş adamı
+Patron
+CEO
+Müdür
+Şef
+Usta
+Çırak
+Stajyer
+Part time çalışan
+Ev hanımı
+Emekli
+İşsiz
+Öğrenci
+Akademisyen
+Profesör
+Doçent
+Araştırma görevlisi
+Rektör
+Dekan
+Bölüm başkanı
+Okul müdürü
+Okul aile birliği başkanı
+PTT memuru
+Tapu memuru
+Nüfus memuru
+Vergi memuru
+SGK memuru
+Belediye başkanı
+Meclis üyesi
+Muhtar
+İmam
+Müezzin
+Papaz
+Rabbi
+Din görevlisi
+Medyum
+Falcı
+Astrolog
+Numerolog
+Tarotçu
+Kahve falcısı
+Masajcı
+Refleksolog
+Akupunkturcu
+Homeopat
+Natüropat
+Reiki ustası
+Hipnoterapist
+Koçluk yapan
+Mentor
+Danışman
+Eğitmen
+Seminer veren
+Konuşmacı
+Sunucu
+Spiker
+Muhabir
+Haber spikeri
+Radyocu
+Podcastçi
+YouTuber
+Influencer
+Streamer
+Gamer
+E-sporcu
+Moderatör
+Admin
+Developer
+Designer
+Tester
+Scrum master
+Product owner
+Data scientist
+Machine learning engineer
+AI uzmanı
+Cyber security uzmanı
+Network engineer
+System admin
+Database admin
+Cloud architect
+DevOps engineer
+Full stack developer
+Frontend developer
+Backend developer
+Mobile developer
+Game developer
+UI/UX designer
+SEO uzmanı
+Digital marketer
+Social media manager
+Content creator
+Copywriter
+PR uzmanı
+Event organizer
+Wedding planner
+Caterer
+Florist
+Dekoratör
+İç mimar
+Peyzaj mimarı
+Şehir plancısı
+Harita mühendisi
+Jeolog
+Maden mühendisi
+Petrol mühendisi
+Kimya mühendisi
+Makine mühendisi
+Endüstri mühendisi
+Gıda mühendisi
+Ziraat mühendisi
+Orman mühendisi
+Su ürünleri mühendisi
+Gemi mühendisi
+Uçak mühendisi
+Uzay mühendisi
+Biyomedikal mühendisi
+Genetik mühendisi
+Nanoteknoloji uzmanı
+Robotikçi
+Otomasyoncu
+Mekatronikçi
+Kontrol mühendisi
+Enerji mühendisi
+Yenilenebilir enerji uzmanı
+Çevre mühendisi
+İş güvenliği uzmanı
+Kalite kontrolcü
+Ar-Ge uzmanı
+Patent vekili
+Marka uzmanı
+Telif hakkı avukatı
+Fikri mülkiyet uzmanı
+Vergi avukatı
+İş hukuku avukatı
+Ceza avukatı
+Aile hukuku avukatı
+Ticaret hukuku avukatı
+Uluslararası hukukçu
+Diplomat
+Konsolos
+Büyükelçi
+Siyasetçi
+Milletvekili
+Bakan
+Başbakan
+Cumhurbaşkanı
+Vali
+Kaymakam
+Emniyet müdürü
+Jandarma komutanı
+General
+Amiral
+Albay
+Binbaşı
+Yüzbaşı
+Üsteğmen
+Teğmen
+Astsubay
+Uzman çavuş
+Er
+Kadın er
+Yedek subay
+Komando
+Paraşütçü
+Dalgıç
+Snayper
+Helikopter pilotu
+Savaş pilotu
+Drone operatörü
+Siber savunma uzmanı
+İstihbaratçı
+Ajan
+Casus
+Koruma görevlisi
+Bodyguard
+VIP şoförü
+Limuzin şoförü
+Yat kaptanı
+Gemi kaptanı
+Uçuş eğitmeni
+Sörf eğitmeni
+Dalış eğitmeni
+Dağcılık rehberi
+Kayak hocası
+Binicilik eğitmeni
+Okçuluk hocası
+Jimnastik antrenörü
+Dans öğretmeni
+Bale öğretmeni
+Piyano öğretmeni
+Gitar öğretmeni
+Keman öğretmeni
+Şan hocası
+Tiyatro öğretmeni
+Sinema öğretmeni
+Fotoğraf öğretmeni
+Resim öğretmeni
+Seramik öğretmeni
+Ebru sanatçısı
+Hat sanatçısı
+Tezhip sanatçısı
+Minyatür sanatçısı
+Çini sanatçısı
+Cam sanatçısı
+Takı tasarımcısı
+Modacı
+Defile organizatörü
+Manken
+Fotomodel
+Seslendirmen
+Dublajcı
+Karikatürist
+Animatör
+Çizgi film yapımcısı
+Oyun tasarımcısı
+Senaryo yazarı
+Hikaye anlatıcısı
+Masalcı
+Kütüphaneci
+Arşivci
+Müzeci
+Restoratör
+Konservatör
+Antikacı
+Koleksiyoner
+Müzayede evi uzmanı
+Galeri sahibi
+Sanat eleştirmeni
+Film eleştirmeni
+Kitap eleştirmeni
+Yemek eleştirmeni
+Restoran eleştirmeni
+Otel eleştirmeni
+Seyahat yazarı
+Gezi rehberi yazarı
+Blog yazarı
+Vlogger
+TikTokçu
+Instagrammer
+Tweetçi
+Forum yöneticisi
+Wiki editörü
+Open source katkıcısı
+Hacker
+Ethical hacker
+Penetration tester
+Forensic uzmanı
+Kriptolog
+Şifre uzmanı
+Blockchain geliştiricisi
+NFT sanatçısı
+Metaverse tasarımcısı
+VR geliştiricisi
+AR geliştiricisi
+3D modelleyici
+Animasyoncu
+VFX artisti
+Kompozitör
+Ses efektçisi
+Foley artisti
+Besteci
+Aranjör
+Koro şefi
+Orkestra şefi
+Bando şefi
+Caz müzisyeni
+Rockçı
+Rapçi
+DJ
+Prodüktör
+Beatmaker
+Lyricist
+Konser organizatörü
+Festival organizatörü
+Turne menajeri
+Menajer
+Ajans sahibi
+Casting direktörü
+Yapım asistanı
+Set çalışanı
+Işık asistanı
+Kamera asistanı
+Makyaj asistanı
+Kostüm asistanı
+Reji asistanı
+Yardımcı yönetmen
+İkinci yönetmen
+Gaffer
+Grip
+Boom operatörü
+Script supervisor
+Location scout
+Prop master
+Set dekoratörü
+Koreograf
+Dansçı
+Figüran
+Statist
+Dublör
+Akrobat
+Sihirbaz
+Palyaço
+Jonglör
+Havai fişekçi
+Drone pilotu
+Balon pilotu
+Planör pilotu
+Yamaç paraşütçüsü
+Deltakanatçı
+Skydiver
+Bungee jumping eğitmeni
+Rafting rehberi
+Kano hocası
+Yelken eğitmeni
+Sörfçü
+Kitesurf eğitmeni
+Wakeboardcu
+Snowboardcu
+Kayakçı
+Buzzcı
+Patenci
+Skateboardcu
+BMXçi
+Motocrossçu
+Ralliciler
+Formula 1 pilotu
+Kartingçi
+Driftçi
+Tuningci
+Modifiyeci
+Oto detaycı
+Seramik kaplamacı
+PPF uygulayıcısı
+Cam filmi ustası
+Wrapping ustası
+Vinil kaplamacı
+Airbrush sanatçısı
+Custom painter
+Chopper yapımcısı
+Cafe racer yapımcısı
+Restorasyon ustası
+Klasik araba koleksiyoncusu
+Süper araba sahibi
+Yat sahibi
+Jet sahibi
+Helikopter sahibi
+Özel uçak pilotu
+Uzay turisti
+Astronot
+Bilim insanı
+Araştırmacı
+Buluşçu
+Mucit
+Nobel ödülü sahibi
+Oscar sahibi
+Grammy sahibi
+Altın palmiye sahibi
+Emmy sahibi
+Tony sahibi
+Pulitzer sahibi
+Man booker sahibi
+Goncourt sahibi
+Cervantes sahibi
+Nebula sahibi
+Hugo sahibi
+Akademi üyesi
+Onursal doktor
+Fahri profesör
+Emeritus profesör
+Danışman profesör
+Misafir öğretim üyesi
+Erasmus öğrencisi
+Exchange student
+Mezun
+Lisans öğrencisi
+Yüksek lisans öğrencisi
+Doktora öğrencisi
+Post doc
+Araştırma asistanı
+Laboratuvar teknisyeni
+Alan araştırmacısı
+Saha çalışanı
+Anketör
+Odak grup moderatörü
+Mystery shopper
+Deney kobayı
+Klinik deney gönüllüsü
+Plasebo alan
+İlaç temsilcisi
+Medikal temsilci
+Tıbbi satış temsilcisi
+Ecza deposu çalışanı
+İlaç firması çalışanı
+Biyoteknoloji uzmanı
+Gen terapisti
+Kök hücre araştırmacısı
+Kanser araştırmacısı
+Alzheimer uzmanı
+Parkinson uzmanı
+Diyabet uzmanı
+Kardiyolog
+Nörolog
+Ortopedist
+Ürolog
+Jinekolog
+Pediatrist
+Dermatolog
+Kulak burun boğazcı
+Göz doktoru
+Beyin cerrahı
+
+###ArabaMarkaModel###
+Toyota Corolla  
+Toyota Camry  
+Toyota Yaris  
+Toyota Hilux  
+Toyota RAV4  
+Toyota LandCruiser  
+Toyota Prius  
+Toyota C-HR  
+Toyota Supra  
+Volkswagen Golf  
+Volkswagen Passat  
+Volkswagen Polo  
+Volkswagen Tiguan  
+Mercedes-Benz C-Class  
+Mercedes-Benz E-Class  
+Mercedes-Benz S-Class  
+BMW 3 Serisi  
+BMW 5 Serisi  
+BMW 7 Serisi  
+Honda Civic  
+Honda Accord  
+Honda CR-V  
+Ford Mustang  
+Ford F-150  
+Hyundai Tucson  
+Hyundai Elantra  
+Renault Clio  
+Renault Megane  
+Fiat Egea  
+Fiat 500  
+Ferrari 488  
+Lamborghini Huracan  
+Porsche 911  
+Tesla Model 3  
+Tesla Model Y  
+Togg T10X  
+Togg T10F  
